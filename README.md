@@ -19,9 +19,9 @@ Also, this web site has a basic design made by using Material UI, therefore is f
 ### 4) In "back_end" project locate and edit .env file to connect to the database;
 
 ## PORTS:
-# back-end: 3001; (do not change or else, rewrite fetching URL)
-front-end: 3000; (do not change or else, rewrite CORS URL)
-database: 3002;
+back-end: 3001; (do not change or else, rewrite fetching URL)\
+front-end: 3000; (do not change or else, rewrite CORS URL)\
+database: 3002;\
 
 ## USERS:
  admin: "IamSoulfuller@gmail.com", "a1234567a";
