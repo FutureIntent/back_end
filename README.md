@@ -18,12 +18,12 @@ INSTRUCTION:
   2. Start "front_end" by using `npm install`, `npm start` in project root directory;
 ### 4) In "back_end" project locate and edit .env file to connect to the database;
 
-PORTS:
+##PORTS:
 back-end: 3001; (do not change or else, rewrite fetching URL)
 front-end: 3000; (do not change or else, rewrite CORS URL)
 database: 3002;
 
-USERS:
+##USERS:
  admin: "IamSoulfuller@gmail.com", "a1234567a";
  user: "FutureIntent@gmail.com", "a12345a";
  user: "FutureeeIntent@gmail.com", "a123a";
