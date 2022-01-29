@@ -10,7 +10,7 @@ Authorisation is made by using JWT and cookie.
 Emails are sent through Nodemailer by using test account of Gmail used specifically for this project. 
 Also, this web site has a basic design made by using Material UI, therefore is fully responsive and can be viewed by any device.
 
-INSTRUCTION:
+## INSTRUCTION:
 ### 1) Turn On MySQL database, import database data from "Database_Export" folder;
 ### 2) Clone 2 repositories: "back_end", "front_end";
 ### 3) Open 2 separate terminals:
@@ -19,7 +19,7 @@ INSTRUCTION:
 ### 4) In "back_end" project locate and edit .env file to connect to the database;
 
 ## PORTS:
-back-end: 3001; (do not change or else, rewrite fetching URL)
+# back-end: 3001; (do not change or else, rewrite fetching URL)
 front-end: 3000; (do not change or else, rewrite CORS URL)
 database: 3002;
 
