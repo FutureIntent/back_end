@@ -14,8 +14,8 @@ INSTRUCTION:
 1) Turn On MySQL database, import database data from "Database_Export" folder;
 2) Clone 2 repositories: "back_end", "front_end";
 3) Open 2 separate terminals:
-###  1. Start "back_end" by using `npm start` in project root directory;
-###  2. Start "front_end" by using `npm start` in project root directory;
+###  1. Start "back_end" by using `npm install`, `npm install nodemon`, `npm start` in project root directory;
+###  2. Start "front_end" by using `npm install`, `npm start` in project root directory;
 3) In "back_end" project locate and edit .env file to connect to the database;
 
 PORTS:
