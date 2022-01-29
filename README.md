@@ -11,12 +11,12 @@ Emails are sent through Nodemailer by using test account of Gmail used specifica
 Also, this web site has a basic design made by using Material UI, therefore is fully responsive and can be viewed by any device.
 
 INSTRUCTION:
-1. Turn On MySQL database, import database data from "Database_Export" folder;
-2. Clone 2 repositories: "back_end", "front_end";
-3. Open 2 separate terminals:
-###  1) Start "back_end" by using `npm install`, `npm install nodemon`, `npm start` in project root directory;
-###  2) Start "front_end" by using `npm install`, `npm start` in project root directory;
-4. In "back_end" project locate and edit .env file to connect to the database;
+### 1) Turn On MySQL database, import database data from "Database_Export" folder;
+### 2) Clone 2 repositories: "back_end", "front_end";
+### 3) Open 2 separate terminals:
+  1. Start "back_end" by using `npm install`, `npm install nodemon`, `npm start` in project root directory;
+  2. Start "front_end" by using `npm install`, `npm start` in project root directory;
+### 4) In "back_end" project locate and edit .env file to connect to the database;
 
 PORTS:
 back-end: 3001; (do not change or else, rewrite fetching URL)
