@@ -16,7 +16,7 @@ INSTRUCTION:
 3) Open 2 separate terminals:
 ###  1. Start "back_end" by using `npm install`, `npm install nodemon`, `npm start` in project root directory;
 ###  2. Start "front_end" by using `npm install`, `npm start` in project root directory;
-3) In "back_end" project locate and edit .env file to connect to the database;
+4) In "back_end" project locate and edit .env file to connect to the database;
 
 PORTS:
 back-end: 3001; (do not change or else, rewrite fetching URL)
